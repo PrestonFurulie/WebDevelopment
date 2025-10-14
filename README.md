@@ -123,22 +123,33 @@ Some features may require specific modules or higher-tier plans (especially in c
 
 ---
 
-## 🖼️ Visuals & Demos
+## ⚙️ Live Features in Action
 
-| Dashboard View | Analytics / Tracking | Landing / UI Preview |
-|----------------|-----------------------|------------------------|
-| ![Dash](screenshots/INTEL.PNG) | ![Track](screenshots/TRACKING.PNG) | ![Home](screenshots/HOMEpage.PNG) |
+Instead of static screenshots, experience the features directly:
 
-👉 **Live Demo**: [fllc.net/demo](https://fllc.net/demo)  
-👉 **Interactive Marketing Page** (GSAP + Neon Theme)  
+### 🧠 AI Chatbot Experience  
+Engage with our OpenAI-powered chatbot integrated with business automation and smart workflows.  
+➡️ [Launch Chat Experience](https://fllc.net#chatbot)
 
 ---
 
-## 📊 GitHub Metrics & Visual Enhancements
+### 📈 Real-Time Analytics Dashboard  
+See how our dashboards track customer behavior, system uptime, and revenue metrics.  
+➡️ [View Analytics Dashboard](https://fllc.net#dashboard)
 
-Instead of the snake game, here are a few visual tools that *do work in README* and support your marketing:
+---
 
-- **GitHub Stats** & **Top Languages** (using `github-readme-stats`)  
-  ```md
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=tokyonight)
+### 💳 Seamless Payment Flow  
+Test how our secure, Stripe-integrated checkout works in a live environment.  
+➡️ [Simulate Purchase Flow](https://fllc.net#checkout)
+
+---
+
+### 🔐 Member Portal Access  
+Experience JWT-secured login, role-based access, and member management.  
+➡️ [Try Secure Portal](https://fllc.net#portal)
+
+---
+
+[![🌐 View Full Demo Platform](https://img.shields.io/badge/🌐_Full_Live_Demo-fllc.net-purple?style=for-the-badge&logo=vercel)](https://fllc.net)
+
