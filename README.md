@@ -1,379 +1,252 @@
-# 🚀 FURULIE LLC - Enterprise Web Design & Automation
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=700&lines=Enterprise+IT+Platform+%7C+AI+Powered+%7C+Government+Compliant;Deploy+in+Minutes%2C+Not+Months;Professional+Evaluation+Results)
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-fllc.net-00C851?style=for-the-badge)](https://fllc.net)
-[![Product Evaluation](https://img.shields.io/badge/📊_Evaluation_Results-View_Assessment-9C27B0?style=for-the-badge)](#-professional-evaluation-results)
-[![Contact Sales](https://img.shields.io/badge/💰_Get_Quote-Contact_Sales-FF6B35?style=for-the-badge)](mailto:preston@fllc.net)
-
-![Profile Views](https://komarev.com/ghpvc/?username=PeterChaffin&color=00C851&style=for-the-badge)
-
-</div>
-
----
-
-## 🎯 **What is This?**
-
-A **complete, production-ready enterprise platform** built with modern technologies including Next.js 14, TypeScript, and AI integration. This platform provides a solid foundation for businesses looking to deploy a professional web application quickly.
-
-**⚠️ IMPORTANT**: This is a **marketing repository only**. No source code is available for free download. All proprietary code is protected and available only through commercial licensing.
-
----
-
-## 📊 **Professional Evaluation Results**
-
-### **🏆 Overall Assessment: EXCELLENT (A+)**
-
-<div align="center">
-
-| Evaluation Category | Score | Status | Notes |
-|-------------------|-------|--------|-------|
-| **🔒 Security & Compliance** | 95/100 | ✅ EXCELLENT | Modern security practices, ready for compliance |
-| **⚡ Performance** | 92/100 | ✅ EXCELLENT | Fast loading, optimized for speed |
-| **🎨 User Experience** | 90/100 | ✅ EXCELLENT | Clean, modern, mobile-responsive design |
-| **🤖 AI Integration** | 88/100 | ✅ EXCELLENT | OpenAI integration with custom features |
-| **💳 Payment Processing** | 94/100 | ✅ EXCELLENT | Stripe integration, secure payments |
-| **📱 Mobile Responsiveness** | 91/100 | ✅ EXCELLENT | PWA-ready, touch-optimized |
-| **🔧 Code Quality** | 96/100 | ✅ EXCELLENT | TypeScript, Next.js 14, best practices |
-| **📈 Scalability** | 89/100 | ✅ EXCELLENT | Modern architecture, scalable design |
-
-**Overall Grade: A+ (91.9/100)**
-
-</div>
-
-### **🔍 Detailed Technical Evaluation**
-
-#### **Security Assessment**
-- ✅ **Modern Security**: HTTPS, secure headers, input validation
-- ✅ **Authentication**: JWT-based authentication system
-- ✅ **Data Protection**: Secure data handling and storage
-- ✅ **API Security**: Protected API endpoints
-- ✅ **Environment Variables**: Secure configuration management
-
-#### **Performance Metrics**
-- ⚡ **Load Time**: Fast loading with Next.js optimization
-- ⚡ **Core Web Vitals**: Good performance scores
-- ⚡ **Mobile Performance**: Optimized for mobile devices
-- ⚡ **SEO Ready**: Proper meta tags and structure
-- ⚡ **Accessibility**: WCAG compliance considerations
-
-#### **AI & Automation Features**
-- 🤖 **AI Chatbot**: OpenAI integration with custom functionality
-- 🤖 **Smart Responses**: Context-aware conversation handling
-- 🤖 **Mobile Optimization**: Touch-friendly interface
-- 🤖 **Customization**: Configurable AI behavior
-
----
-
-## 🔥 **Key Features & Capabilities**
-
-<div align="center">
-
-| Feature | Description | Status |
-|---------|-------------|--------|
-| **🤖 AI Chatbot** | OpenAI integration with custom features | ✅ Ready |
-| **💳 Payment Processing** | Stripe integration for secure payments | ✅ Ready |
-| **👥 Member Portal** | User authentication and management | ✅ Ready |
-| **🛡️ Security** | Modern security practices and validation | ✅ Ready |
-| **📊 Analytics** | Built-in analytics and tracking | ✅ Ready |
-| **📱 Mobile Responsive** | Touch-optimized, PWA-ready design | ✅ Ready |
-| **🔧 Admin Dashboard** | Management interface for administrators | ✅ Ready |
-| **📧 Email Integration** | Automated email functionality | ✅ Ready |
-
-</div>
-
----
-
-## 🏗️ **Technology Stack**
-
-<div align="center">
-
-### **Frontend Architecture**
-
-![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### **Backend & Services**
-
-![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel)
-![Stripe](https://img.shields.io/badge/Stripe-Ready-635BFF?style=for-the-badge&logo=stripe)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai)
-
-### **Security & Compliance**
-
-![Security](https://img.shields.io/badge/Security-Modern-00C851?style=for-the-badge)
-![HTTPS](https://img.shields.io/badge/HTTPS-Enabled-00C851?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Authentication-00C851?style=for-the-badge)
-
-</div>
-
----
-
-## 📸 **Live Platform Screenshots**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%">
-<img src="screenshots/HOMEpage.PNG" alt="Homepage" width="100%">
-<p><b>🏠 Modern Homepage</b><br/>Clean design, professional appearance</p>
-</td>
-<td width="33%">
-<img src="screenshots/INTEL.PNG" alt="Intelligence Dashboard" width="100%">
-<p><b>📊 Intelligence Dashboard</b><br/>Analytics and business metrics</p>
-</td>
-<td width="33%">
-<img src="screenshots/TRACKING.PNG" alt="Analytics Tracking" width="100%">
-<p><b>📈 Analytics & Tracking</b><br/>Performance monitoring and insights</p>
-</td>
-</tr>
-</table>
-
-### **[🚀 View Live Demo at fllc.net](https://fllc.net)**
-
-</div>
-
----
-
-## 💰 **Pricing & Packages**
-
-<div align="center">
-
-| Package | Price | Best For | Highlights |
-|---------|-------|----------|------------|
-| **🚀 Starter** | **$2,997** | Small businesses, startups | Complete platform + 30 days support + 1 year updates |
-| **💎 Professional** | **$4,997** | Growing companies, agencies | + Priority support + Custom branding + 2 years updates |
-| **🏆 Enterprise** | **$9,997** | Large orgs, resellers | + White-label rights + 20hrs custom dev + Lifetime updates |
-
-**✨ One-time payment. No recurring fees.**
-
-</div>
-
-### **What's Included in Every Package**
-
-✅ Complete Next.js 14 source code  
-✅ AI chatbot with OpenAI integration  
-✅ Stripe payment & subscription system  
-✅ Member portal with JWT authentication  
-✅ Admin dashboard with analytics  
-✅ Mobile-responsive PWA design  
-✅ Comprehensive documentation  
-✅ Setup & deployment support  
-
----
-
-## 🏢 **About Furulie LLC**
-
-### **SAM Registered • DoD Cyber Aware • Government Contracting Ready**
-
-**Furulie LLC** specializes in enterprise IT solutions, government contracting, and advanced technology platforms. We build secure, scalable systems that meet professional standards of compliance and performance.
-
-<table>
-<tr>
-<td width="50%">
-
-### **🛡️ Our Services**
-- Cybersecurity & Compliance
-- AI & Process Automation
-- Business Intelligence & Analytics
-- IT & Network Infrastructure
-- Government Solutions & Contracting
-
-</td>
-<td width="50%">
-
-### **🎓 Leadership**
-**Preston Furulie** - Founder & CEO
-- IT Student at Phoenix College
-- NASA ASCEND Program Participant
-- FAA Student Pilot
-- Former IBEW Local 640 Electrician
-- Eagle Scout & AFROTC Cadet
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 **Quick Start Guide**
-
-### **Step 1: Choose Your Package**
-Review [pricing details](docs/HONEST-PRICING.md) and select the package that fits your needs.
-
-### **Step 2: Contact Us**
-- **📧 Email**: [preston@fllc.net](mailto:preston@fllc.net)
-- **📞 Phone**: [602-688-4657](tel:602-688-4657)
-- **🌐 Website**: [fllc.net](https://fllc.net)
-
-### **Step 3: Receive Access**
-Get private repository access within **24 hours** of payment confirmation.
-
-### **Step 4: Deploy & Launch**
-Follow our comprehensive deployment guide to get your platform live.
-
-### **Step 5: Start Using Your Platform**
-Your platform is now ready with payment processing, member portal, and AI chatbot!
-
----
-
-## 📚 **Documentation**
-
-<div align="center">
-
-| Document | Description |
-|----------|-------------|
-| **[📋 Features List](docs/FEATURES.md)** | Complete feature breakdown with technical details |
-| **[💰 Honest Pricing](docs/HONEST-PRICING.md)** | Transparent pricing and package comparison |
-| **[📊 Evaluation Report](docs/PROFESSIONAL-EVALUATION.md)** | Detailed technical assessment |
-| **[❓ FAQ](docs/FAQ.md)** | Frequently asked questions and answers |
-| **[📄 License Agreement](docs/LICENSE-AGREEMENT.md)** | Customer license terms and conditions |
-
-</div>
-
----
-
-## 🌟 **Why Choose This Platform?**
-
-<table>
-<tr>
-<td width="50%">
-
-### **⚡ Speed to Market**
-- Deploy quickly with modern technology
-- Production-ready from day one
-- Comprehensive documentation included
-- Professional support available
-
-### **💵 Cost Effective**
-- One-time payment, no recurring fees
-- Complete source code included
-- Professional development value
-- Ongoing support and updates
-
-</td>
-<td width="50%">
-
-### **🔒 Professional Grade**
-- Modern security practices
-- Scalable architecture
-- Industry best practices
-- Proven technology stack
-
-### **🤝 Complete Support**
-- Comprehensive documentation
-- Deployment assistance
-- 30+ days support included
-- Custom development available
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 **Perfect For**
-
-<div align="center">
-
-| Industry | Use Cases |
-|----------|-----------|
-| **🏛️ Government Contractors** | Secure platforms, compliance-ready features |
-| **🏢 Enterprise Companies** | Scalable platforms, professional solutions |
-| **🚀 SaaS Startups** | Revenue-ready platform, user management |
-| **🎨 Digital Agencies** | Client-ready solutions, custom deployments |
-
-</div>
-
----
-
-## 📊 **GitHub Statistics**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChaffin&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💬 **Get in Touch**
-
-<div align="center">
-
-### **Ready to Get Started?**
-
-[![Email](https://img.shields.io/badge/📧_Email-preston@fllc.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preston@fllc.net)
-[![Phone](https://img.shields.io/badge/📞_Phone-602--688--4657-00C851?style=for-the-badge)](tel:602-688-4657)
-[![Website](https://img.shields.io/badge/🌐_Website-fllc.net-9C27B0?style=for-the-badge)](https://fllc.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-furulie/)
-
-### **[🚀 View Live Demo](https://fllc.net) • [📄 Product Page](https://peterchaffin.github.io/furulie-llc-enterprise/) • [💰 Get Quote](mailto:preston@fllc.net)**
-
-</div>
-
----
-
-## 📝 **Questions?**
-
-Have questions about the platform, pricing, or implementation? We're here to help!
-
-- **[Open a Purchase Inquiry](.github/ISSUE_TEMPLATE/purchase-inquiry.md)** - Interested in buying
-- **[Ask a Question](docs/FAQ.md)** - Check our comprehensive FAQ
-- **[Contact Support](mailto:preston@fllc.net)** - Direct email support
-
----
-
-## 💼 **Business Information**
-
-- **Company**: Furulie LLC
-- **Status**: SAM Registered, DoD Cyber Aware
-- **Industry**: Information Technology & Government Contracting
-- **Location**: Phoenix, Arizona
-- **Contact**: preston@fllc.net | (602) 688-4657
-- **Website**: [fllc.net](https://fllc.net)
-
----
-
-## 🔐 **Legal & Security**
-
-**Copyright © October 2025 FURULIE LLC. All rights reserved.**
-
-This platform is proprietary software available under commercial license. Unauthorized distribution, reproduction, or reverse engineering is prohibited.
-
-- ✅ **Commercial License** - Available for purchase
-- ✅ **Source Code** - Included with all packages
-- ✅ **White-Label Rights** - Enterprise package only
-- ✅ **Professional Support** - Included with all packages
-
----
-
-## ⚠️ **Important Notice**
-
-**This is a marketing repository only. No source code is available for free download.**
-
-- 🔒 **Source Code Protected**: All proprietary code is in private repositories
-- 💰 **Commercial License Required**: Access only through paid packages
-- 🛡️ **Intellectual Property**: Protected by copyright and licensing agreements
-- 📞 **Contact for Access**: Reach out for commercial licensing options
-
----
-
-<div align="center">
-
-### *"Empowering Your Future with Secure & Intelligent IT Solutions"*
-
-**In God We Trust** 🙏
-
----
-
-**© October 2025 FURULIE LLC • Phoenix, Arizona • [fllc.net](https://fllc.net)**
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Furulie LLC — Enterprise Web Development & Automation</title>
+  <style>
+    :root {
+      /* Tokyo neon / purple night color palette */
+      --bg-dark: #1a001f;
+      --bg-darker: #0f0011;
+      --purple-neon: #b915cc;
+      --magenta: #f6287d;
+      --accent-cyan: #2ac9f9;
+      --text-light: #e0d9f0;
+      --text-muted: #8f8fa0;
+      --glow-blur: 20px;
+    }
+    body {
+      background: var(--bg-darker);
+      color: var(--text-light);
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem;
+      text-align: center;
+    }
+    .typing-svg img {
+      filter: drop-shadow(0 0 6px var(--purple-neon));
+      margin-bottom: 2rem;
+    }
+    .badges a {
+      margin: 0 0.5rem;
+      display: inline-block;
+      color: var(--accent-cyan);
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.3s ease;
+    }
+    .badges a:hover {
+      color: var(--magenta);
+    }
+    h2 {
+      color: var(--purple-neon);
+      font-weight: 600;
+      text-shadow: 0 0 8px var(--purple-neon);
+      margin-top: 2rem;
+    }
+    .evaluation-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 2rem 0;
+      background: var(--bg-dark);
+      border: 1px solid #330033;
+    }
+    .evaluation-table th, .evaluation-table td {
+      border: 1px solid #330033;
+      padding: 0.75rem;
+    }
+    .evaluation-table th {
+      background: #2a001f;
+      color: var(--accent-cyan);
+    }
+    .evaluation-table td {
+      color: var(--text-light);
+    }
+    tfoot strong {
+      color: var(--magenta);
+      text-shadow: 0 0 8px var(--magenta);
+    }
+    .feature-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    .feature-card {
+      background: #220025;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+      opacity: 0;
+      transform: translateY(30px);
+      border: 1px solid #330033;
+    }
+    .feature-card:hover {
+      background: #2f0036;
+      border-color: var(--purple-neon);
+      box-shadow: 0 6px 20px rgba(185, 21, 204, 0.6);
+    }
+    .package-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 2rem 0;
+      background: var(--bg-dark);
+    }
+    .package-table th, .package-table td {
+      border: 1px solid #330033;
+      padding: 1rem;
+    }
+    .package-table th {
+      background: #2a001f;
+      color: var(--accent-cyan);
+    }
+    .package-table td {
+      color: var(--text-light);
+    }
+    .fade-in {
+      opacity: 0;
+    }
+    .highlight {
+      color: var(--magenta);
+      text-shadow: 0 0 8px var(--magenta);
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.3/gsap.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=b915cc&center=true&vCenter=true&width=700&lines=Enterprise+IT+Platform+%7C+AI+Powered+%7C+Government+Compliant;Deploy+in+Minutes%2C+Not+Months;Professional+Evaluation+Results" alt="typing text"/>
+    </div>
+    <div class="badges fade-in">
+      <a href="https://fllc.net" target="_blank">🚀 Live Demo</a>
+      <a href="#-professional-evaluation-results">📊 Evaluation Results</a>
+      <a href="mailto:preston@fllc.net">💰 Contact Sales</a>
+    </div>
+
+    <h2 class="fade-in">📊 Professional Evaluation Results</h2>
+    <table class="evaluation-table fade-in">
+      <thead>
+        <tr>
+          <th>Evaluation Category</th><th>Score</th><th>Status</th><th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Security & Compliance</td><td>95/100</td><td>✅ EXCELLENT</td><td>Modern security practices, compliance-ready</td></tr>
+        <tr><td>Performance</td><td>92/100</td><td>✅ EXCELLENT</td><td>Optimized for speed</td></tr>
+        <tr><td>User Experience</td><td>90/100</td><td>✅ EXCELLENT</td><td>Clean, responsive design</td></tr>
+        <tr><td>AI Integration</td><td>88/100</td><td>✅ EXCELLENT</td><td>OpenAI integration with custom features</td></tr>
+        <tr><td>Payment Processing</td><td>94/100</td><td>✅ EXCELLENT</td><td>Stripe integration, secure payments</td></tr>
+        <tr><td>Mobile Responsiveness</td><td>91/100</td><td>✅ EXCELLENT</td><td>PWA, touch optimized</td></tr>
+        <tr><td>Code Quality</td><td>96/100</td><td>✅ EXCELLENT</td><td>TypeScript, best practices</td></tr>
+        <tr><td>Scalability</td><td>89/100</td><td>✅ EXCELLENT</td><td>Modern, modular architecture</td></tr>
+      </tbody>
+      <tfoot>
+        <tr><td colspan="4"><strong>Overall Grade: A+ (91.9/100)</strong></td></tr>
+      </tfoot>
+    </table>
+
+    <h2 class="fade-in">🔥 Key Features & Capabilities</h2>
+    <div class="feature-grid">
+      <div class="feature-card">🤖 AI Chatbot — OpenAI integration, context-aware responses</div>
+      <div class="feature-card">💳 Payment Processing — Stripe payments & subscription control</div>
+      <div class="feature-card">👥 Member Portal — Secure user auth & profile management</div>
+      <div class="feature-card">🛡️ Security — Modern practices, validation, secure API</div>
+      <div class="feature-card">📊 Analytics — Dashboard views, tracking, metrics</div>
+      <div class="feature-card">📱 Mobile Responsive — PWA-ready, clean on small screens</div>
+      <div class="feature-card">🔧 Admin Dashboard — Backend controls, settings, management</div>
+      <div class="feature-card">📧 Email Integration — Automated email & transactional handling</div>
+    </div>
+
+    <h2 class="fade-in">💰 Pricing & Packages</h2>
+    <table class="package-table fade-in">
+      <thead>
+        <tr><th>Package</th><th>Price</th><th>Best For</th><th>Highlights</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>🚀 Starter</td><td>$2,997</td><td>Small businesses / startups</td><td>Platform + 30d support + 1yr updates</td></tr>
+        <tr><td>💎 Professional</td><td>$4,997</td><td>Growing companies / agencies</td><td>Priority support, branding, 2yr updates</td></tr>
+        <tr><td>🏆 Enterprise</td><td>$9,997</td><td>Large orgs / resellers</td><td>White-label rights, ~20 hrs custom dev, lifetime updates</td></tr>
+      </tbody>
+    </table>
+
+    <p class="fade-in">
+      <strong>✨ What’s Included in Every Package:</strong><br/>
+      Complete Next.js source + AI chatbot + Stripe payments + member portal + admin dashboard + mobile PWA + docs + setup support
+    </p>
+
+    <p class="fade-in highlight">Deploy in minutes, not months — enterprise-grade without the overhead.</p>
+  </div>
+
+  <script>
+    window.addEventListener('load', () => {
+      // Animate badges
+      gsap.from(".badges a", {
+        opacity: 0,
+        y: 20,
+        duration: 0.8,
+        stagger: 0.2,
+        ease: "power3.out"
+      });
+      // Animate headings
+      gsap.from("h2", {
+        opacity: 0,
+        y: 30,
+        duration: 0.8,
+        delay: 0.5,
+        stagger: 0.3,
+        ease: "power3.out"
+      });
+      // Table fade-ins
+      gsap.from(".evaluation-table", {
+        opacity: 0,
+        y: 50,
+        duration: 0.8,
+        delay: 0.8,
+        ease: "power3.out"
+      });
+      gsap.from(".package-table", {
+        opacity: 0,
+        y: 50,
+        duration: 0.8,
+        delay: 1.8,
+        ease: "power3.out"
+      });
+      // Feature cards – pop-in with overshoot
+      gsap.to(".feature-card", {
+        opacity: 1,
+        y: 0,
+        duration: 0.8,
+        delay: 1.2,
+        stagger: 0.15,
+        ease: "back.out(1.3)"
+      });
+      // Final highlight line
+      gsap.from("p.highlight", {
+        opacity: 0,
+        y: 30,
+        duration: 0.8,
+        delay: 2.2,
+        ease: "power3.out"
+      });
+      // Glow pulse on overall grade
+      gsap.fromTo("tfoot strong", {
+        textShadow: `0 0 8px ${getComputedStyle(document.documentElement).getPropertyValue('--magenta')}`
+      }, {
+        textShadow: `0 0 20px ${getComputedStyle(document.documentElement).getPropertyValue('--magenta')}`,
+        repeat: -1,
+        yoyo: true,
+        duration: 1.5,
+        ease: "sine.inOut"
+      });
+    });
+  </script>
+</body>
+</html>
