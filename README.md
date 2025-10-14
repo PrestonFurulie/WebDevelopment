@@ -3,8 +3,6 @@
 > **Production‑Ready. Government‑Grade. AI‑Powered.**  
 > Built with ⚛️ Next.js 14 + TypeScript + OpenAI + Stripe + Tailwind  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=tokyonight)
-
 
 <div align="center">
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=b915cc&center=true&vCenter=true&width=700&lines=Enterprise+IT+Platform+%7C+AI+Powered+%7C+Government+Compliant;Deploy+in+Minutes%2C+Not+Months)
