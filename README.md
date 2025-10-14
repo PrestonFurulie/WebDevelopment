@@ -97,19 +97,29 @@ Some features may require specific modules or higher-tier plans (especially in c
 ## 🌐 Technology Stack & Integrations
 
 <div align="center">
-  ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue?style=for-the-badge&logo=typescript)
-  ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-  <br/>
-  ![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel)
-  ![Stripe](https://img.shields.io/badge/Stripe-Ready-635BFF?style=for-the-badge&logo=stripe)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai)
-  <br/>
-  ![Security](https://img.shields.io/badge/Security-Modern-b915cc?style=for-the-badge)
-  ![HTTPS](https://img.shields.io/badge/HTTPS-Enabled-b915cc?style=for-the-badge)
-  ![JWT](https://img.shields.io/badge/JWT-Authentication-b915cc?style=for-the-badge)
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/TypeScript-100%25-blue?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+
+<!-- Backend & Services -->
+<br/>
+
+<img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/Stripe-Ready-635BFF?style=for-the-badge&logo=stripe" />
+<img src="https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai" />
+
+<!-- Security -->
+<br/>
+
+<img src="https://img.shields.io/badge/Security-Modern-b915cc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTTPS-Enabled-b915cc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-Authentication-b915cc?style=for-the-badge" />
+
 </div>
+
 
 ---
 
