@@ -452,6 +452,6 @@ This platform is proprietary software available under commercial license. Unauth
 **© October 2025 FURULIE LLC • Phoenix, Arizona • [fllc.net](https://fllc.net)**
 
 <!-- Animated Footer Badge -->
-![FURULIE LLC💻📲](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge&logo=heart&logoColor=white&labelColor=red)
+![FURULIE LLC💻📲](https://img.shields.io/badge/FURULIE%20LLC-8A2BE2)
 
 </div>
