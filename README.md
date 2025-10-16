@@ -3,15 +3,84 @@
 <div align="center">
 
 <!-- Advanced Typing Animation with Multiple Lines -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=800&lines=Enterprise+IT+Platform+%7C+AI+Powered+%7C+Government+Compliant;Next.js+14+%7C+TypeScript+%7C+Modern+Architecture;Professional+Evaluation+%7C+Developer+Review;Deploy+in+Minutes%2C+Not+Months;Revenue-Ready+from+Day+One)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=800&lines=Enterprise+IT+Platform+%7C+AI+Powered+%7C+Government+Compliant;Next.js+14+%7C+TypeScript+%7C+Modern+Architecture;Professional+Evaluation+%7C+Developer+Review;Deploy+in+Minutes%2C+Not+Months;Revenue-Ready+from+Day+One" alt="Typing SVG" />
 
-<!-- Animated Badges with Hover Effects -->
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-fllc.net-00C851?style=for-the-badge&logo=next.js&logoColor=white)](https://fllc.net)
-[![Developer Review](https://img.shields.io/badge/👨‍💻_Dev_Review-A+_Grade-9C27B0?style=for-the-badge&logo=github&logoColor=white)](#-developer-review--technical-assessment)
-[![Contact Sales](https://img.shields.io/badge/💰_Get_Quote-Contact_Sales-FF6B35?style=for-the-badge&logo=mail&logoColor=white)](mailto:preston@fllc.net)
+<!-- ────────────────────────────────────────────────────────────────────────────── -->
+<!-- TRUST & PROOF (Top row): OpenSSF/CII, License, Release, CI, CodeQL          -->
+<!-- Replace PROJECT_ID with your numeric ID from https://www.bestpractices.dev   -->
+<!-- ────────────────────────────────────────────────────────────────────────────── -->
+<p>
+  <a href="https://www.bestpractices.dev/en/projects/PROJECT_ID">
+    <img alt="OpenSSF Best Practices"
+      src="https://img.shields.io/cii/summary/PROJECT_ID?label=OpenSSF%20Best%20Practices&style=for-the-badge">
+  </a>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=PrestonFurulie&color=00C851&style=for-the-badge&label=Repository+Views)
+  <a href="LICENSE">
+    <img alt="License"
+      src="https://img.shields.io/github/license/PrestonFurulie/furulie-llc-enterprise?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/PrestonFurulie/furulie-llc-enterprise/releases">
+    <img alt="Latest Release"
+      src="https://img.shields.io/github/v/release/PrestonFurulie/furulie-llc-enterprise?display_name=release&include_prereleases&sort=semver&style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/PrestonFurulie/furulie-llc-enterprise/actions">
+    <img alt="CI Status"
+      src="https://img.shields.io/github/actions/workflow/status/PrestonFurulie/furulie-llc-enterprise/ci.yml?branch=main&label=CI&style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/PrestonFurulie/furulie-llc-enterprise/actions/workflows/codeql.yml">
+    <img alt="CodeQL"
+      src="https://img.shields.io/github/actions/workflow/status/PrestonFurulie/furulie-llc-enterprise/codeql.yml?label=CodeQL&style=for-the-badge">
+  </a>
+</p>
+
+<!-- ────────────────────────────────────────────────────────────────────────────── -->
+<!-- CTA (Second row): Demo, Review anchor, Sales                                 -->
+<!-- ────────────────────────────────────────────────────────────────────────────── -->
+<p>
+  <a href="https://fllc.net">
+    <img alt="Live Demo"
+      src="https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-fllc.net-00C851?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+
+  <a href="#-developer-review--technical-assessment">
+    <img alt="Developer Review"
+      src="https://img.shields.io/badge/%F0%9F%91%A8%F0%9F%92%BB_Dev_Review-A%2B_Grade-9C27B0?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="mailto:preston@fllc.net">
+    <img alt="Contact Sales"
+      src="https://img.shields.io/badge/%F0%9F%92%B0_Get_Quote-Contact_Sales-FF6B35?style=for-the-badge">
+  </a>
+</p>
+
+<!-- ────────────────────────────────────────────────────────────────────────────── -->
+<!-- SOCIAL PROOF (Third row): Stars, Forks, Issues                                -->
+<!-- ────────────────────────────────────────────────────────────────────────────── -->
+<p>
+  <a href="https://github.com/PrestonFurulie/furulie-llc-enterprise/stargazers">
+    <img alt="GitHub stars"
+      src="https://img.shields.io/github/stars/PrestonFurulie/furulie-llc-enterprise?style=social">
+  </a>
+
+  <a href="https://github.com/PrestonFurulie/furulie-llc-enterprise/forks">
+    <img alt="GitHub forks"
+      src="https://img.shields.io/github/forks/PrestonFurulie/furulie-llc-enterprise?style=social">
+  </a>
+
+  <a href="https://github.com/PrestonFurulie/furulie-llc-enterprise/issues">
+    <img alt="Open issues"
+      src="https://img.shields.io/github/issues/PrestonFurulie/furulie-llc-enterprise?style=social">
+  </a>
+</p>
+
+<!-- Views Counter -->
+<p>
+  <img alt="Repository Views"
+    src="https://komarev.com/ghpvc/?username=PrestonFurulie&color=00C851&style=for-the-badge&label=Repository+Views">
+</p>
 
 </div>
 
@@ -30,8 +99,11 @@ A **complete, production-ready enterprise platform** built with cutting-edge tec
 ### **🏆 Overall Developer Grade: S (94.9/100)**
 
 <div align="center">
+<!-- If desired later, you can add a dynamic JSON badge for the score here -->
+</div>
 
-<!-- Animated Progress Bars -->
+<div align="center">
+
 | Category | Score | Status | Developer Notes |
 |----------|-------|--------|-----------------|
 | **🔒 Security Implementation** | 95/100 | ✅ EXCELLENT | Modern security practices, JWT auth, input validation |
@@ -86,21 +158,39 @@ interface PlatformFeatures {
 <div align="center">
 
 ### **Frontend Architecture**
-<!-- Animated Technology Badges -->
-![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
+
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-100%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
 
 ### **Backend & Services**
-![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
-![Stripe](https://img.shields.io/badge/Stripe-Ready-635BFF?style=for-the-badge&logo=stripe&logoColor=white&labelColor=635BFF)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991)
+
+<p>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-Ready-635BFF?style=for-the-badge&logo=stripe&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white">
+</p>
 
 ### **Security & Compliance**
-![Security](https://img.shields.io/badge/Security-Modern-00C851?style=for-the-badge&logo=shield&logoColor=white&labelColor=00C851)
-![HTTPS](https://img.shields.io/badge/HTTPS-Enabled-00C851?style=for-the-badge&logo=lock&logoColor=white&labelColor=00C851)
-![JWT](https://img.shields.io/badge/JWT-Authentication-00C851?style=for-the-badge&logo=key&logoColor=white&labelColor=00C851)
+
+<p>
+  <img alt="Security" src="https://img.shields.io/badge/Security-Modern-00C851?style=for-the-badge">
+  <img alt="HTTPS" src="https://img.shields.io/badge/HTTPS-Enabled-00C851?style=for-the-badge">
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-Authentication-00C851?style=for-the-badge">
+
+  <a href="https://www.conventionalcommits.org/en/v1.0.0/">
+    <img alt="Conventional Commits"
+      src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-FFB300?style=for-the-badge">
+  </a>
+
+  <a href="https://prettier.io/">
+    <img alt="Code Style: Prettier"
+      src="https://img.shields.io/badge/code_style-prettier-FF69B4?style=for-the-badge">
+  </a>
+</p>
 
 </div>
 
@@ -110,7 +200,6 @@ interface PlatformFeatures {
 
 <div align="center">
 
-<!-- Animated Feature Cards -->
 | Feature | Description | Status | Developer Rating |
 |---------|-------------|--------|------------------|
 | **🤖 AI Integrations** | OpenAI+ integration with custom features, sentiment analysis | ✅ Ready | 9/10 |
@@ -121,7 +210,9 @@ interface PlatformFeatures {
 | **📱 Mobile Responsive** | PWA-ready, touch-optimized design | ✅ Ready | 9/10 |
 | **🔧 Admin Dashboard** | Management interface, user administration | ✅ Ready | 9/10 |
 | **📧 Email Integration** | Automated workflows, notifications | ✅ Ready | 8/10 |
+
 **UNDEPLOYED ON WEBSITE FOR LEGAL PROTECTION**
+
 </div>
 
 ---
@@ -144,7 +235,6 @@ interface PlatformFeatures {
 ### **💼 Customer Success Metrics**
 
 ```javascript
-// Customer success data
 const customerMetrics = {
   totalCustomers: "50+ successful deployments",
   averageImplementation: "2.3 days",
@@ -160,7 +250,6 @@ const customerMetrics = {
 
 <div align="center">
 
-<!-- Animated Pricing Cards -->
 | Package | Price | Best For | Developer Value |
 |---------|-------|----------|-----------------|
 | **🚀 Starter** | **$2,997** | Small businesses, startups | Complete source code + support |
@@ -205,10 +294,10 @@ const customerMetrics = {
 <td width="50%">
 
 ### **💭QUESTIONS / FEEDBACK?**
-**Preston Furulie** - Founder & CEO
-- preston@fllc.net
--6026884657
--fllc.net
+**Preston Furulie** - Founder & CEO  
+- preston@fllc.net  
+- 6026884657  
+- fllc.net
 
 </td>
 </tr>
@@ -226,22 +315,21 @@ const customerMetrics = {
 - Shop account (for payments)
 - API keys (for data AND implementations)
 
-  
-  ### **Production Deployment**
-  1. **Build the application**
-     ```bash
-     npm run build
-     ```
-  
-  2. **Deploy to Host**
-     ```bash
+### **Production Deployment**
+1. **Build the application**
+   ```bash
+   npm run build
+   ```
+
+2. **Deploy to Host**
+   ```bash
    npx (example host) --prod
    ```
 
-3. **Configure environment variables**
+3. **Configure environment variables**  
    Set up all required environment variables in your (host)
 
-4. **Set up custom domain**
+4. **Set up custom domain**  
    Configure your custom domain settings
 
 ### **Security Setup**
@@ -271,22 +359,23 @@ const customerMetrics = {
 
 ## 🚀 **Quick Start Guide**
 
-### **Step 1: Choose Your Package**
+### **Step 1: Choose Your Package**  
 Review pricing and select the package that fits your needs.
 
 ### **Step 2: Contact Us**
-- **📧 Email**: [preston@fllc.net](mailto:preston@fllc.net)
-- **📞 Phone**: [602-688-4657](tel:602-688-4657)
+- **📧 Email**: [preston@fllc.net](mailto:preston@fllc.net)  
+- **📞 Phone**: [602-688-4657](tel:602-688-4657)  
 - **🌐 Website**: [fllc.net](https://fllc.net)
 
-### **Step 3: Receive Access**
+### **Step 3: Receive Access**  
 Get private access within **hours** of payment confirmation.
 
-### **Step 4: Deploy & Launch**
+### **Step 4: Deploy & Launch**  
 Follow our comprehensive deployment guide to get your platform live. Contact for support.
 
-### **Step 5: Start Using Your Platform**
+### **Step 5: Start Using Your Platform**  
 Your platform is now ready with your features!
+
 ---
 
 ## 📚 **Documentation & Resources**
@@ -363,13 +452,15 @@ Your platform is now ready with your features!
 
 <div align="center">
 
-<!-- Animated GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics)
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages)
+<br /><br />
 
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC)
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" />
+
+<br /><br />
+
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" />
 
 </div>
 
@@ -381,11 +472,27 @@ Your platform is now ready with your features!
 
 ### **Ready to Transform Your Business?**
 
-<!-- Animated Contact Badges -->
-[![Email](https://img.shields.io/badge/📧_Email-preston@fllc.net-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:preston@fllc.net)
-[![Phone](https://img.shields.io/badge/📞_Phone-602--688--4657-00C851?style=for-the-badge&logo=phone&logoColor=white&labelColor=00C851)](tel:602-688-4657)
-[![Website](https://img.shields.io/badge/🌐_Website-fllc.net-9C27B0?style=for-the-badge&logo=globe&logoColor=white&labelColor=9C27B0)](https://fllc.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/preston-furulie/)
+<p>
+  <a href="mailto:preston@fllc.net">
+    <img alt="Email"
+      src="https://img.shields.io/badge/%F0%9F%93%A7_Email-preston%40fllc.net-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="tel:602-688-4657">
+    <img alt="Phone"
+      src="https://img.shields.io/badge/%F0%9F%93%9E_Phone-602--688--4657-00C851?style=for-the-badge&logo=phone&logoColor=white">
+  </a>
+
+  <a href="https://fllc.net">
+    <img alt="Website"
+      src="https://img.shields.io/badge/%F0%9F%8C%90_Website-fllc.net-9C27B0?style=for-the-badge">
+  </a>
+
+  <a href="https://www.linkedin.com/in/preston-furulie/">
+    <img alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ### **[🚀 View Live Demo](https://fllc.net) • [📄 Product Page](https://peterchaffin.github.io/furulie-llc-enterprise/) • [💰 Get Quote](mailto:preston@fllc.net)**
 
@@ -418,14 +525,12 @@ Have questions about the platform, pricing, or implementation? We're here to hel
 
 **Copyright © October 2025 FURULIE LLC. All rights reserved.**
 
-
-
 This platform is proprietary software available under commercial license. Unauthorized distribution, reproduction, or reverse engineering is prohibited.
 
-- ✅ **Commercial License** - Available for purchase
-- ✅ **Source Code** - Included with all packages
-- ✅ **White-Label Rights** - Enterprise package only
-- ✅ **Professional Support** - Included with all packages
+- ✅ **Commercial License** - Available for purchase  
+- ✅ **Source Code** - Included with all packages  
+- ✅ **White-Label Rights** - Enterprise package only  
+- ✅ **Professional Support** - Included with all packages  
 
 ---
 
@@ -433,25 +538,21 @@ This platform is proprietary software available under commercial license. Unauth
 
 **This is a marketing display only. No source code is free for download.**
 
-- 🔒 **Source Code Protected**: All sensitive code is private
-- 💰 **Commercial License Required**: Access only through paid packages
-- 🛡️ **Intellectual Property**: Protected by copyright and licensing agreements
-- 📞 **Contact for Access**: Reach out for commercial licensing options
+- 🔒 **Source Code Protected**: All sensitive code is private  
+- 💰 **Commercial License Required**: Access only through paid packages  
+- 🛡️ **Intellectual Property**: Protected by copyright and licensing agreements  
+- 📞 **Contact for Access**: Reach out for commercial licensing options  
 
 ---
 
 <div align="center">
 
-<!-- Animated Footer -->
 ### *"Empowering Your Future with Secure & Intelligent IT Solutions"*
 
 **In God We Trust** 🙏
 
----
+**© October 2025 FURULIE LLC • Phoenix, Arizona • <a href="https://fllc.net">fllc.net</a>**
 
-**© October 2025 FURULIE LLC • Phoenix, Arizona • [fllc.net](https://fllc.net)**
-
-<!-- Animated Footer Badge -->
-![FURULIE LLC💻📲](https://img.shields.io/badge/FURULIE%20LLC-8A2BE2)
+<img alt="FURULIE LLC" src="https://img.shields.io/badge/FURULIE%20LLC-8A2BE2">
 
 </div>
