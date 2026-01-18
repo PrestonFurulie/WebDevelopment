@@ -84,15 +84,15 @@ https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=matrix
 
 ## 📫 Connect
 
-**Website:** [fllc.net](https://fllc.net)  
-**Email:** [preston@fllc.net](mailto:preston@fllc.net)  
+**Website:** 🔒 
+**Email:** [preston@fllc.net](mailto:preston@🔒)  
 **LinkedIn:** [linkedin.com/in/preston-furulie](https://www.linkedin.com/in/preston-furulie/)
 
 ---
 
 <div align="center">
 
-**© 2025 FURULIE LLC • Phoenix, Arizona**  
+**© 2026 FURULIE LLC • USA**  
 **In God We Trust 🙏**
 
 </div>
