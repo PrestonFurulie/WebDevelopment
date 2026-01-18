@@ -85,7 +85,7 @@ https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=matrix
 ## 📫 Connect
 
 **Website:** 🔒 
-**Email:** [preston@fllc.net](mailto:preston@🔒)  
+**Email:** [preston@🔓](mailto:preston@fllc.net)  
 **LinkedIn:** [linkedin.com/in/preston-furulie](https://www.linkedin.com/in/preston-furulie/)
 
 ---
