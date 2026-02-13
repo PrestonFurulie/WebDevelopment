@@ -1,0 +1,192 @@
+/*
+ * FLLC — Midnight Neon Blacklight Galaxy Theme
+ * Global styles for the Enterprise Intelligence Framework.
+ * FLLC 2026
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --bg-primary:     #0D0D1A;
+    --bg-secondary:   #1A1A2E;
+    --bg-surface:     #16213E;
+    --accent-cyan:    #00FFFF;
+    --accent-fuchsia: #FF00FF;
+    --accent-uv:      #7B2FBE;
+    --accent-green:   #00FF88;
+    --accent-amber:   #FFB800;
+    --accent-red:     #FF3366;
+    --text-primary:   #E0E0FF;
+    --text-secondary: #B0B0D0;
+    --text-muted:     #6A6A8A;
+    --border-dim:     #2A2A4A;
+    --border-glow:    #3A3A6A;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Neon glow effects */
+.glow-cyan {
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.2),
+                0 0 30px rgba(0, 255, 255, 0.1);
+}
+
+.glow-fuchsia {
+    box-shadow: 0 0 15px rgba(255, 0, 255, 0.2),
+                0 0 30px rgba(255, 0, 255, 0.1);
+}
+
+.glow-uv {
+    box-shadow: 0 0 15px rgba(123, 47, 190, 0.3),
+                0 0 30px rgba(123, 47, 190, 0.15);
+}
+
+.text-glow-cyan {
+    text-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+}
+
+.text-glow-fuchsia {
+    text-shadow: 0 0 10px rgba(255, 0, 255, 0.5);
+}
+
+/* Gradient backgrounds */
+.bg-gradient-galaxy {
+    background: linear-gradient(135deg, #0D0D1A 0%, #1A1A2E 50%, #16213E 100%);
+}
+
+.bg-gradient-neon {
+    background: linear-gradient(135deg, var(--accent-cyan) 0%, var(--accent-fuchsia) 50%, var(--accent-uv) 100%);
+}
+
+.border-gradient-neon {
+    border: 1px solid transparent;
+    background-clip: padding-box;
+    position: relative;
+}
+
+.border-gradient-neon::before {
+    content: '';
+    position: absolute;
+    inset: -1px;
+    border-radius: inherit;
+    background: linear-gradient(135deg, var(--accent-cyan), var(--accent-fuchsia), var(--accent-uv));
+    z-index: -1;
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+    padding: 1px;
+}
+
+/* Card component */
+.card {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-dim);
+    border-radius: 12px;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    border-color: var(--accent-cyan);
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);
+    transform: translateY(-2px);
+}
+
+/* Button styles */
+.btn-primary {
+    background: linear-gradient(135deg, var(--accent-cyan), var(--accent-uv));
+    color: var(--bg-primary);
+    font-weight: 600;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);
+    transform: translateY(-1px);
+}
+
+.btn-secondary {
+    background: transparent;
+    color: var(--accent-fuchsia);
+    border: 1px solid var(--accent-fuchsia);
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+    background: rgba(255, 0, 255, 0.1);
+    box-shadow: 0 0 20px rgba(255, 0, 255, 0.2);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--border-glow);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--accent-uv);
+}
+
+/* Selection */
+::selection {
+    background: rgba(0, 255, 255, 0.3);
+    color: var(--text-primary);
+}
+
+/* Animations */
+@keyframes pulse-glow {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+}
+
+@keyframes gradient-shift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.animate-pulse-glow {
+    animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.animate-float {
+    animation: float 6s ease-in-out infinite;
+}

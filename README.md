@@ -1,98 +1,151 @@
-# 🚀 FURULIE LLC — Enterprise Intelligence Framework
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=850&lines=Enterprise+Intelligence+Framework+%7C+AI+Driven+%7C+Secure+by+Design;Next.js+14+%7C+TypeScript+%7C+AWS+Cloud+Infrastructure;Data+Analytics+%7C+Automation+%7C+Cybersecurity+Operations" alt="Typing SVG" />
+# FLLC — Enterprise Intelligence Framework
 
----
+```
+    ███████╗██╗     ██╗      ██████╗
+    ██╔════╝██║     ██║     ██╔════╝
+    █████╗  ██║     ██║     ██║
+    ██╔══╝  ██║     ██║     ██║
+    ██║     ███████╗███████╗╚██████╗
+    ╚═╝     ╚══════╝╚══════╝ ╚═════╝
+     Enterprise Intelligence Framework
+```
 
-[![OpenSSF Best Practices](https://img.shields.io/badge/OpenSSF%20Best%20Practices-Passing-00C851?style=for-the-badge&logo=openssf&logoColor=white)](https://www.bestpractices.dev/en/users/45683)
-[![License](https://img.shields.io/badge/License-Commercial-FF6B35?style=for-the-badge&logo=creative-commons&logoColor=white)](LICENSE)
-[![Release](https://img.shields.io/badge/Version-v3.2.0-9C27B0?style=for-the-badge&logo=github)](https://github.com/PrestonFurulie/WebDevelopment/releases)
-[![Build](https://img.shields.io/badge/Build-Passing-00C851?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/PrestonFurulie/WebDevelopment/actions)
-[![Security](https://img.shields.io/badge/Security-AWS%20Hardened-00C851?style=for-the-badge&logo=amazonaws&logoColor=white)](https://fllc.net)
+[![License](https://img.shields.io/badge/License-Proprietary-FF00FF?style=for-the-badge)](LICENSE.md)
+[![Status](https://img.shields.io/badge/Status-Production-00FFFF?style=for-the-badge)]()
+[![Security](https://img.shields.io/badge/Security-Hardened-7B2FBE?style=for-the-badge)]()
+
+**Scalable cloud intelligence platform. AWS-native. Zero Trust architecture.**
+
+[fllc.net](https://fllc.net)
 
 </div>
 
 ---
 
-## 💡 What We Build
+## Architecture
 
-**FURULIE LLC** develops a **scalable enterprise intelligence framework** — designed for modern organizations needing secure, automated, and compliant cloud solutions.  
-Built with **Next.js 14**, **TypeScript**, and a fully integrated **AWS ecosystem**, this framework provides a foundation for analytics, live monitoring, and intelligent automation.
+```
+Client (Next.js 14 + React 18 + TypeScript)
+   |
+   +-- Tailwind CSS (FLLC midnight neon theme)
+   +-- Authentication (AWS Cognito / SSO)
+   |
+CDN (CloudFront) --> WAF (Web ACL)
+   |
+API Gateway --> Lambda (Node.js 20)
+   |
+   +-- DynamoDB (primary store)
+   +-- PostgreSQL / RDS (analytics)
+   +-- S3 (encrypted object storage)
+   +-- ElastiCache (Redis session cache)
+   |
+Monitoring:
+   +-- CloudWatch (metrics + alarms)
+   +-- CloudTrail (audit logging)
+   +-- GuardDuty (threat detection)
+   +-- Inspector (vulnerability scanning)
+   +-- Config (compliance rules)
+```
 
-### ⚙️ Core Capabilities
-- **Enterprise-grade AWS Security**
-  - S3 Buckets (Encrypted Storage)
-  - CloudTrail (Activity Monitoring & Auditing)
-  - Web ACL (WAF Protection)
-  - AWS Inspector (Vulnerability Scanning)
-  - IAM Role-based Access Control
-  - KMS Encryption & Key Rotation
-- **Data Engineering & Intelligence**
-  - PostgreSQL / RDS / DynamoDB
-  - Secure API Gateways & Lambda Automation
-  - ELT Pipelines & Serverless Compute
-  - Live Visualization & Telemetry via Power BI & Tableau
-- **AI & Automation**
-  - Event-driven architecture for real-time decision support
-  - Seamless OpenAI integration for data processing and analysis
-- **Resilience & Monitoring**
-  - 24/7 Health Checks, CloudWatch Metrics, and Auto Scaling  
-  - CI/CD via Vercel and GitHub Actions for continuous deployment
+## Security Posture
+
+| Layer | Implementation |
+|-------|---------------|
+| Encryption at Rest | AES-256 via AWS KMS with automatic key rotation |
+| Encryption in Transit | TLS 1.3 enforced, HSTS preloaded |
+| Identity | AWS Cognito with MFA, RBAC via IAM policies |
+| Network | VPC with private subnets, NACLs, Security Groups |
+| Application | CSP headers, X-Frame-Options, rate limiting |
+| Monitoring | Real-time CloudWatch dashboards, SNS alerting |
+| Compliance | SOC 2, NIST 800-53, CIS benchmarks via AWS Config |
+| Secrets | AWS Secrets Manager, zero hardcoded credentials |
+
+## Tech Stack
+
+| Component | Technology |
+|-----------|-----------|
+| Frontend | Next.js 14, React 18, TypeScript, Tailwind CSS |
+| Backend | AWS Lambda, API Gateway, Node.js 20 |
+| Database | DynamoDB, PostgreSQL (RDS), Redis (ElastiCache) |
+| Storage | S3 (encrypted), CloudFront CDN |
+| Auth | AWS Cognito, IAM, SSO integration |
+| CI/CD | GitHub Actions, Vercel, AWS CodePipeline |
+| IaC | Terraform, AWS CDK |
+| Monitoring | CloudWatch, CloudTrail, GuardDuty, Inspector |
+
+## Theme
+
+FLLC uses a **midnight neon blacklight galaxy** color system:
+
+```css
+:root {
+    --bg-primary:    #0D0D1A;  /* Midnight Black       */
+    --bg-secondary:  #1A1A2E;  /* Deep Space            */
+    --bg-surface:    #16213E;  /* Dark Navy             */
+    --accent-cyan:   #00FFFF;  /* Neon Cyan             */
+    --accent-fuchsia:#FF00FF;  /* Electric Fuchsia      */
+    --accent-uv:     #7B2FBE;  /* Ultraviolet           */
+    --accent-green:  #00FF88;  /* Neon Green (success)  */
+    --text-primary:  #E0E0FF;  /* Ghost White           */
+    --text-muted:    #8888AA;  /* Muted Lavender        */
+    --border:        #2A2A4A;  /* Dim Border            */
+    --glow-cyan:     0 0 20px rgba(0, 255, 255, 0.3);
+    --glow-fuchsia:  0 0 20px rgba(255, 0, 255, 0.3);
+}
+```
+
+## Project Structure
+
+```
+WebDevelopment/
+    src/
+        app/              Next.js 14 app router
+            layout.tsx    Root layout with FLLC theme
+            page.tsx      Landing page
+            dashboard/    Intelligence dashboard
+            api/          API routes
+        components/       Reusable UI components
+            ui/           Base components (Button, Card, Input)
+            layout/       Header, Footer, Sidebar
+            dashboard/    Dashboard widgets
+        lib/              Utilities and helpers
+            auth.ts       Authentication logic
+            db.ts         Database connections
+            crypto.ts     Encryption utilities
+        styles/           Global CSS with neon theme
+    public/               Static assets
+    infra/                Terraform IaC modules
+    CNAME                 fllc.net domain config
+    LICENSE.md            Proprietary license
+```
+
+## Development
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Deploy
+vercel deploy --prod
+```
+
+## Contact
+
+- **Website:** [fllc.net](https://fllc.net)
+- **Email:** preston@fllc.net
 
 ---
-
-## 🔒 Secure by Design
-
-Our architecture follows **Zero Trust principles** and **NIST-aligned** best practices:
-- Encrypted data flows end-to-end (AWS KMS, TLS 1.3)
-- Hardened API gateways and WAF rulesets
-- Real-time threat inspection through AWS Inspector and GuardDuty
-- Continuous compliance tracking and alert auditing via CloudTrail
-- Infrastructure as Code for reliable, repeatable security enforcement
-
----
-
-## 🧩 Tech Stack
-
-**Frontend:** Next.js 14 • React 18 • TypeScript • Tailwind CSS  
-**Backend:** AWS Lambda • API Gateway • Node.js • Supabase • Stripe (secure transactions)  
-**Data:** PostgreSQL • DynamoDB • S3 • AWS Glue • Athena  
-**Security:** CloudTrail • GuardDuty • WebACL • IAM • Inspector • KMS • Config Rules  
-**Monitoring:** CloudWatch • AWS Health Dashboard • Vercel Analytics  
-
----
-
-## 🌐 Vision
-
-> “Empowering secure, intelligent cloud ecosystems for enterprises.”
-
-We’re a forward-thinking startup creating frameworks that help teams **accelerate cloud transformation**, **automate analytics**, and **secure mission-critical systems** from day one.
-
----
-
-## 📊 GitHub Insights
 
 <div align="center">
-  
-https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=matrix
 
-</div>
-
----
-
-## 📫 Connect
-
-**Website:** 🔒 
-**Email:** [preston@🔓](mailto:preston@fllc.net)  
-**LinkedIn:** [linkedin.com/in/preston-furulie](https://www.linkedin.com/in/preston-furulie/)
-
----
-
-<div align="center">
-
-**© 2026 FURULIE LLC • USA**  
-**In God We Trust 🙏**
+**FLLC 2026 — In God We Trust**
 
 </div>
